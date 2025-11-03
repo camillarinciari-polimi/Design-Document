@@ -85,17 +85,17 @@ The game features a main menu with standard navigation buttons:
 
 On the player’s first session, selecting Start launches an introductory sequence presented as a virtual comic. This sequence briefly narrates the origin story:
 
-> In a mad scientist lab…  
-> A mad scientist concludes his experiment!  
-> But nothing happens.  
-> Later, Blob is hanging out with friends.  
-> And now, is teleported to this strange place!!! Help Blob escape!
+- In a mad scientist lab…  
+- A mad scientist concludes his experiment!  
+- But nothing happens.  
+- Later, Blob is hanging out with friends.  
+- And now, is teleported to this strange place!!! Help Blob escape!
 
 On subsequent sessions, selecting Start resumes gameplay from the most recently saved level.
 
 Levels unlock sequentially; each stage becomes available only after completing the previous one. The Level Select menu displays progression and allows players to replay any previously completed level.
 
 At the last level, when completed, it launches another virtual comic sequence:
-> Blob finally found the portal by recreating the experiment;
-> Blob says goodbye to the lab;
-> And returns to hanging out with friends!
+- Blob finally found the portal by recreating the experiment;
+- Blob says goodbye to the lab;
+- And returns to hanging out with friends!
