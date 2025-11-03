@@ -4,14 +4,9 @@ This repository contains the **Free The Blob!** project developed during the lab
 
 ---
 
-## 📂 Repository Structure
+## Requirements
 
-
----
-
-## 📑 Requirements
-
-### ✅ Source Code & Assets
+### Source Code & Assets
 The `Source` directory must include:
 - Full game source code
 - All used assets (music, SFX, graphics)
@@ -20,25 +15,25 @@ The `Source` directory must include:
 
 ---
 
-### ✅ Executables
+### Executables
 The `Executables` directory must contain:
 
 | Platform | Required |
 |---------|---------|
-| Web (HTML) | ✅ Mandatory |
-| Desktop (Windows or macOS) | ✅ At least one |
+| Web (HTML) | Mandatory |
+| Desktop (Windows or macOS) | At least one |
 
 > All builds must support **Full HD (1920×1080)**.
 
 ---
 
-### ✅ Images
+### Images
 - `Images/Screenshots/` → **min. 7 screenshots**, 16:9, 1920×1080
 - `Images/Icon/` → icon used on itch.io (**347×275 px**)
 
 ---
 
-### ✅ Gameplay Video
+### Gameplay Video
 `GameplayVideo/` must include:
 - **3–5 minute** gameplay video
 - Format: **.mp4**
@@ -46,33 +41,30 @@ The `Executables` directory must contain:
 
 ---
 
-### ✅ Documents
+### Documents
 `Documents/` must contain:
 - Game description used on itch.io
 - Final version of the **Game Design Document**
 
 ---
 
-## 📦 Additional Material
+## Additional Material
 This repository includes reference folders (screenshots, arcade cabin logos, asset sources).  
 Students may add more supporting material if useful.
 
 ---
 
-## 🎮 About the Game
-*(Add a brief description of your game here — 2–4 lines)*  
-Example:  
-> *Free the Blob!* is a puzzle-platform game where players help a trapped blob escape a mysterious lab by bending physics, solving challenges, and discovering its hidden past.
+## About the Game
+*Trapped in a lab, born to escape. Free the Blob home!
+Blob is a strange alien mass accidentally brought to life by a reckless scientist. Now trapped inside their laboratory, it must escape through interdimensional portals to find its way home. *  
+---
+
+## Team
+*Team Leader* Camilla Rinciari
+*Member 1* Jiazi Wang
+*Member 2* Hao Xiao
+*Member 3* Kamila Mammadova
 
 ---
 
-## 👥 Team
-*(Add your names here)*
-
----
-
-## 📬 Contact
-For course-related support, refer to the official VGD&D communications channels.
-
----
 
