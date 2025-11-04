@@ -177,7 +177,7 @@ Last level unlocks the ending comic.
 
 ## Team
 
-**Team leader:** Camilla Rinciari  
-**Member #1:** Jiazi Wang  
-**Member #2:** Han Xiao  
-**Member #3:** Kamila Mammadova  
+**Team leader:** Camilla Rinciari (designer)  
+**Member #1:** Jiazi Wang (programmer)  
+**Member #2:** Han Xiao (programmer)  
+**Member #3:** Kamila Mammadova (designer)  
