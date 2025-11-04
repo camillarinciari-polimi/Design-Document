@@ -55,15 +55,15 @@ Students may add more supporting material if useful.
 ---
 
 ## About the Game
-*Trapped in a lab, born to escape. Free the Blob home!
-Blob is a strange alien mass accidentally brought to life by a reckless scientist. Now trapped inside their laboratory, it must escape through interdimensional portals to find its way home. *  
+</small>_Trapped in a lab, born to escape. Free the Blob home!
+Blob is a strange alien mass accidentally brought to life by a reckless scientist. Now trapped inside their laboratory, it must escape through interdimensional portals to find its way home._</small>
 ---
 
 ## Team
-*Team Leader* Camilla Rinciari
-*Member 1* Jiazi Wang
-*Member 2* Hao Xiao
-*Member 3* Kamila Mammadova
+*Team Leader* Camilla Rinciari  
+*Member 1* Jiazi Wang  
+*Member 2* Hao Xiao  
+*Member 3* Kamila Mammadova  
 
 ---
 
